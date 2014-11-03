@@ -14,3 +14,8 @@ coverage
 .ruby-version
 .sass-cache
 tmp/stackprof-*
+node_modules
+.tmp
+.sass-cache
+static-src/bower_components
+*.log
