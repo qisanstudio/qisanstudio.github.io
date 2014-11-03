@@ -1,0 +1,8 @@
+# build settings
+source: welcome
+destination: _site
+exclude: [Gemfile, Gemfile.lock, README.md]
+#include: []
+timezone: Asia/Shanghai
+encoding: utf-8
+
